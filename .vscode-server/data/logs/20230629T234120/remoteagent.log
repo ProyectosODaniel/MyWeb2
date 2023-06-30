@@ -1,0 +1,18 @@
+2023-06-29 23:41:20.568 [info] 
+
+
+
+
+2023-06-29 23:41:20.568 [info] Extension host agent started.
+2023-06-29 23:41:20.661 [info] Started initializing default profile extensions in extensions installation folder. file:///home/dani2309/.vscode-server/extensions
+2023-06-29 23:41:20.771 [info] [127.0.0.1][5920da1a][ManagementConnection] New connection established.
+2023-06-29 23:41:21.166 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/dani2309/.vscode-server/extensions
+2023-06-29 23:41:22.185 [info] [127.0.0.1][224c2adb][ExtensionHostConnection] New connection established.
+2023-06-29 23:41:22.300 [info] [127.0.0.1][224c2adb][ExtensionHostConnection] <618> Launched Extension Host Process.
+2023-06-29 23:48:41.267 [info] Getting Manifest... ritwickdey.liveserver
+2023-06-29 23:48:41.519 [info] Installing extension: ritwickdey.liveserver
+2023-06-29 23:48:47.259 [info] Extension signature is verified: ritwickdey.liveserver
+2023-06-29 23:48:57.077 [info] Extracted extension to /home/dani2309/.vscode-server/extensions/.30e24937-83a8-46ec-9caf-46c554153cae: ritwickdey.liveserver
+2023-06-29 23:48:57.102 [info] Renamed to /home/dani2309/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2023-06-29 23:48:57.107 [info] Extracting extension completed. ritwickdey.liveserver
+2023-06-29 23:48:57.127 [info] Extension installed successfully: ritwickdey.liveserver
