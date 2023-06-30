@@ -68,3 +68,6 @@ git status
 git add .
 git fsck --full
 clear
+ls
+git remote -v
+git push origin master
